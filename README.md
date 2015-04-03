@@ -2,6 +2,12 @@
 
 ### Settings
 
+####
+
+- Terminal types
+
+    sudo apt-get install ncurses-term
+
 #### PuTTY
 
 - For 256 color mode, do the following

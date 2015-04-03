@@ -6,7 +6,7 @@
 
 - Terminal types
 
-    sudo apt-get install ncurses-term
+      sudo apt-get install ncurses-term
 
 #### PuTTY
 

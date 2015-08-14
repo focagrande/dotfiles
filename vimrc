@@ -15,13 +15,13 @@ colorscheme monokai
 
 " set the runtime path to include Vundle and initialize
 
-set rtp+=~/.vim/bundle/Vundle.vim
-call vundle#begin()
+" set rtp+=~/.vim/bundle/Vundle.vim
+" call vundle#begin()
 
-Plugin 'gmarik/Vundle.vim'
-Plugin 'jlanzarotta/bufexplorer'
+" Plugin 'gmarik/Vundle.vim'
+" Plugin 'jlanzarotta/bufexplorer'
 
-call vundle#end()
+" call vundle#end()
 filetype plugin indent on
 
 
